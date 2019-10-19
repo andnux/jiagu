@@ -1,0 +1,2 @@
+include ':buildSrc', ':app'
+rootProject.name='jiagu'
