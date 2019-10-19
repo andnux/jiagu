@@ -6,8 +6,8 @@ import org.gradle.api.Task
 
 class JiaGu360Plugin implements Plugin<Project> {
 
-    static final String EXTENSION_NAME = 'JiaGu360'
-    static final String NAME = "jiaGu360Release"
+    static final String EXTENSION_NAME = 'JiaGu'
+    static final String NAME = "jiaGuRelease"
 
     @Override
     void apply(Project project) {

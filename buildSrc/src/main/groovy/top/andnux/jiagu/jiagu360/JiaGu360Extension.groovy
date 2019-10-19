@@ -14,9 +14,6 @@ class JiaGu360Extension {
 
     File channelFile //指向通道备注文件.txt
 
-    File inputFile//输入apk
-    File outputFile//输入apk
-
     String[] config;//扩展配置
 
     String appVersionName;//版本号
